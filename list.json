@@ -1,41 +1,41 @@
 [
     {
-        "id": 1,
+       
         "name": "Stiggley",
         "rating": 5,
         "isBad": true
     }, {
-        "id": 2,
+        
         "name": "Wallace",
         "rating": 1,
         "isBad": true
     }, {
-        "id": 3,
+       
         "name": "Bear Hugger",
         "rating": 2,
         "isBad": true
     }, {
-        "id": 4,
+       
         "name": "Aran Ryan",
         "rating": 5,
         "isBad": false
     }, {
-        "id": 5,
+        
         "name": "Mr Sandman",
         "rating": 2,
         "isBad": true
     }, {
-        "id": 6,
+        
         "name": "Hello Kitty",
         "rating": 1,
         "isBad": false
     }, {
-        "id": 7,
+       
         "name": "Heike Kagero",
         "rating": 3,
         "isBad": false
     }, {
-        "id": 8,
+        
         "name": "Poopley",
         "rating": 5,
         "isBad": true
