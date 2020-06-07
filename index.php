@@ -17,18 +17,14 @@
             <option value="dsc">Z to A</option>
             <option value="highest">Best performers</option>
             <option value="lowest">Lowest performers</option>
-           
             </select>
-        <input type="submit" value="submit" />
+            
+         <!--refreshes list to prevent array buildup upon changing selections-->
+        <button onClick="window.location.reload()">Refresh</button>
         
 
 <hr />
-    <div id="myData">
-        
-    
-    
-    
-    </div>
+    <div id="myData"></div>
 
 </div>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
