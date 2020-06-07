@@ -3,7 +3,7 @@ Select option list that controls the view of data from JSON using map, and sort 
 
 Similar to what you might find on many e-commerce sites to filter data from high-low, best price, alphabetical order, etc.
 Index is a PHP document, so you will need a server to run it. It can also be changed to an HTML document and will work if you have 
-the CORS feature on your Google browswer or something similar on a different one. 
+the CORS feature on your Google browser or something similar on a different one. 
 
 *****Still working on getting the list to clear for new data after new option selected: still displays previous data from each successive query in the browser
 
