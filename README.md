@@ -5,5 +5,7 @@ Similar to what you might find on many e-commerce sites to filter data from high
 Index is a PHP document, so you will need a server to run it. It can also be changed to an HTML document and will work if you have 
 the CORS feature on your Google browswer or something similar on a different one. 
 
+*****Still working on getting the list to clear for new data after new option selected: still displays previous data from each successive query in the browser
+
 ![Screen Shot 2020-06-05 at 10 22 29 AM](https://user-images.githubusercontent.com/22375594/83894170-8d4d6480-a716-11ea-8b85-43153f19d728.png)
 ![Screen Shot 2020-06-05 at 10 22 43 AM](https://user-images.githubusercontent.com/22375594/83894177-8fafbe80-a716-11ea-9706-8dff4b6d5e92.png)
