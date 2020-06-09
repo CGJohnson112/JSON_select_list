@@ -39,5 +39,13 @@
         "name": "Poopley",
         "rating": 5,
         "isBad": true
+    }, {
+        "name": "MLK",
+        "rating": 2,
+        "isBad": false
+    }, {
+        "name":"Martin Luther",
+        "rating": 4,
+        "isBad": true
     }
 ]
